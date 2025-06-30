@@ -3,7 +3,7 @@
 
 ## Contents
 - [Related Surveys](#related-surveys)
-- [Generative Models](#-generative-models)
+- [Classification](#-classification)
 - [Few-Shot Learning](#-few-shot-learning)
 - [Foundation Models](#-foundation-models)
 - [Universal Models](#-universal-models)
@@ -12,8 +12,8 @@
 
 ## 🔍Related Surveys
 
-**Medical Image Segmentation Review: The Success of U-Net** \
-*Reza Azad, Ehsan Khodapanah Aghdam, Amelie Rauland, Yiwei Jia, Atlas Haddadi Avval, and Afshin Bozorgpour* <br>
+**Mamba-Adaptor: State Space Model Adaptor for Visual Recognition** \
+*Fei Xie, Jiahao Nie, Yujin Tang, Wenkang Zhang, and Hongshen Zhao* <br>
 [TPAMI, 2024] [[Paper](https://ieeexplore.ieee.org/abstract/document/10643318)] [[ArXiv](https://arxiv.org/pdf/2211.14830)]
 
 **U-Net and Its Variants for Medical Image Segmentation: A Review of Theory and Applications** \
@@ -56,11 +56,11 @@
 
 
 <!--- Theory --->
-## 🔍 Generative Models
+## 🔍 Classification
 
-**C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation** \
-*Boah Kim, Yujin Oh, Bradford J. Wood, Ronald M. Summers, and Jong Chul Ye* <br>
-[MIA, 2024] [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002827)] [[ArXiv](https://arxiv.org/pdf/2308.00193)] [[Github](https://github.com/boahK/MEDIA_CDARL)]
+**Mamba-Adaptor: State Space Model Adaptor for Visual Recognition** \
+*Fei Xie, Jiahao Nie, Yujin Tang, Wenkang Zhang, and Hongshen Zhao* <br>
+[CVPR, 2025] [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Mamba-Adaptor_State_Space_Model_Adaptor_for_Visual_Recognition_CVPR_2025_paper.html)] [[ArXiv](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Mamba-Adaptor_State_Space_Model_Adaptor_for_Visual_Recognition_CVPR_2025_paper.html)] [[Github]()]
 
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Wei Ji, Huazhu Fu, Min Xu, Yueming Jin, and Yanwu Xu* <br>
